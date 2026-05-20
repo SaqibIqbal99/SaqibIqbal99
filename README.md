@@ -11,8 +11,9 @@ Right now, I'm learning Flutter and Web API. I want to be able to build both web
 ## What I Use
 
 - .NET 9, ASP.NET Core MVC
-- Bootstrap, JavaScript, Razor Pages  
-- SQL Server, SQLite
+- Entity Framework Core
+- Bootstrap, JavaScript, Razor Pages
+- SQL Server
 - Git, GitHub, Visual Studio
 - (Learning Flutter)
 
@@ -24,14 +25,15 @@ Right now, I'm learning Flutter and Web API. I want to be able to build both web
 - Contact form that actually sends emails
 - Admin panel to manage everything
 - Login for admin, staff, and students
-- SQLite database so the whole thing runs anywhere
+- Bulk Delete, Search/Filter, Export to Excel
+- Chat format for contact messages
 
 [Check it out on GitHub](https://github.com/SaqibIqbal99/ZealEducationManager)
 
 ## Where to Find Me
 
 - GitHub: [SaqibIqbal99](https://github.com/SaqibIqbal99)
-- Email: saqibmk99@gmail.com
+- Email: [saqibmk99@gmail.com](mailto:saqibmk99@gmail.com)
 
 ---
 
